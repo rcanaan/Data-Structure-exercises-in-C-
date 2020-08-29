@@ -1,0 +1,4 @@
+﻿  DTree.cpp
+DTree.obj : error LNK2005: "public: __thiscall ValidAnswer::ValidAnswer(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (??0ValidAnswer@@QAE@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@0@Z) already defined in DecisionTreeNode.obj
+DTree.obj : error LNK2005: "public: __thiscall ValidAnswer::~ValidAnswer(void)" (??1ValidAnswer@@QAE@XZ) already defined in DecisionTreeNode.obj
+LINK : fatal error LNK1561: entry point must be defined
